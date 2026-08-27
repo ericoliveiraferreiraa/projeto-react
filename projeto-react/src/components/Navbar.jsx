@@ -13,7 +13,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-ink border-b border-white/10">
       <nav className="flex items-center justify-between px-6 md:px-12 h-20">
         <NavLink to="/" className="font-display text-2xl italic text-bone">
-          VOLT<span className="text-volt">.</span>
+          Nike<span className="text-volt">.</span>
         </NavLink>
 
         <ul className="hidden md:flex items-center gap-10 font-body text-sm uppercase tracking-widest">
